@@ -1,0 +1,73 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat;
+}
+.flexble-container{
+    display: flex;
+}
+h1{
+    font-size:50px;
+}
+#paragrachp{
+    font-size:20px;
+    color: rgba(113, 110, 110, 0.714);
+}
+.peter-perker{
+    color:orange
+}
+.half-width{
+  width: 50%;
+  margin-top:2%;
+  padding-left:5%;
+}
+a{
+    font-size:15px;
+    color: white;
+    padding:10px 20px;
+    border-radius: 5px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(orange,blue);
+}
+.half-width img{
+    width:80%;
+}
+.ex-perines{
+    margin-left: 5%;
+}
+.trainer{
+    font-size:40px;
+    font-family: 'Poppins', sans-serif;
+}
+.trainer-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
+}
+.full-stack{
+    margin-bottom: 10%;
+    background-position:left;
+    background-repeat: no-repeat;
+    background-image: url(images/exp-bg.png);
+}
+.baby-web{
+    color: blue;
+}
+.box-shadow{
+    width: 40%;
+    padding:3%;
+    margin-left:4%;
+    margin-right:4%;
+    border-radius:10px;
+    border-left:12px solid rgba(255, 166, 0, 0.592);
+    box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.273);
+}
+.footer{
+    text-align: center;
+    color: dimgrey;
+}
